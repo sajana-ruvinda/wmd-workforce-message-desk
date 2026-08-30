@@ -396,10 +396,10 @@ Selected screenshots demonstrating the application's major workflows and interfa
 ![Landing Page](screenshots/landing.png)
 
 ### Inbox & Features
-![Inbox & Features](screenshots/inbox and features.png)
+![Inbox & Features](screenshots/inbox and features.jpg)
 
 ### Gmail Style Dashboard
-![Inbox & Features](screenshots/gmail style dashboard.png)
+![Gmail Style Dashboard](screenshots/gmail style dashboard.png)
 
 ### Login Portal
 ![Login Portal](screenshots/login.png)
